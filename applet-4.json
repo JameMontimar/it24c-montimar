@@ -1,0 +1,21 @@
+[
+    {
+      "student_id": 1,
+      "student_name": "Franco ometer",
+      "student_program": "BS-Computer Science",
+      "student_enrolled_date": "2023-01-15"
+    },
+    {
+      "student_id": 2,
+      "student_name": "January March",
+      "student_program": "BS-Computer Engineering",
+      "student_enrolled_date": "2023-02-20"
+    },
+    {
+      "student_id": 3,
+      "student_name": "Bobby Ray parks",
+      "student_program": "BS - Beauty Therapy",
+      "student_enrolled_date": "2023-03-10"
+    }
+  ]
+  
