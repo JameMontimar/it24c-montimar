@@ -1,0 +1,7 @@
+safe.directory=D:/Dev/ion-t-cagubcub/ion-t-cagubcub
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=jaylene 23
+user.email=itsmejaylene23@gmail.com
